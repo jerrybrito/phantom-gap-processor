@@ -1,0 +1,2 @@
+# Requires: future-void
+# (Not available on PyPI)
